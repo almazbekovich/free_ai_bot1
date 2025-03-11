@@ -2,12 +2,6 @@
 
 This bot is a template for an easy start of working with the **aiogram** 3.x and **SQLAlchemy** 2.x ​​frameworks
 
-# Easy start
-Just clone the repository:
-```bash
-git clone https://github.com/rlxrd/aiogram_sqla_sample.git
-```
----
 **Create and activate your virtual environment:**
 ```bash
 python -m venv .venv
